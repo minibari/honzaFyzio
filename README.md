@@ -1,2 +1,1 @@
-# minibari.github.io
-honzafyzio
+using bootstrap template and basic JS
